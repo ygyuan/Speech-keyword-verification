@@ -1,0 +1,12 @@
+*.zip
+*.log
+*.npz
+*.npy
+
+!*.py
+!*.pyx
+!*.md
+!*.conf
+!*.m
+!*.c
+!README.txt
